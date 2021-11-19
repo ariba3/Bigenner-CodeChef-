@@ -1,2 +1,2 @@
-# Bigenner-CodeChef-
+# Bigenner-CodeChef
 Solution in C/C++
